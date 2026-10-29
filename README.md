@@ -1,4 +1,4 @@
-# ✍️ MUJ Assignment Agent
+# ✍️ Assignment Agent
 
 **Automatically solve assignments and generate realistic handwritten PDFs.**
 
